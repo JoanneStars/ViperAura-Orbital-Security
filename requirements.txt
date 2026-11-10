@@ -1,0 +1,6 @@
+streamlit>=1.36,<2
+plotly>=5.20,<7
+numpy>=1.26,<3
+pandas>=2.1,<3
+skyfield>=1.49,<2
+reportlab>=4.1,<5
